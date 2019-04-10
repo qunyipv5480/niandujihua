@@ -1,5 +1,5 @@
 [{
-  "ver": "6",  	//app的小版本号，可以不同的版本号配置不同的内容
-  "age": 1,                 	//开关：1打开 0关闭
-  "content": "www.baidu.com"            	//需要跳转的网址
+  "ver": "6",  	              
+  "age": 1,                 	
+  "content": "www.baidu.com"            	
 }]
